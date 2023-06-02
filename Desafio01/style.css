@@ -1,0 +1,29 @@
+*{
+    list-style: none;
+    border: none;
+    margin: none;
+    padding: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-size: 100px;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
+
+i{
+    transform: rotate(-30deg) skew(25deg);
+    border: 2px solid black;
+    padding: 5px;
+    border-radius: 10px;
+}
