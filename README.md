@@ -6,10 +6,10 @@
     <br> Talvez eu demore mais que 30 dias, mas irei tentar concluir o desafio.</p>
 </div>
 
-### 1° dia:
+### 1° dia (Concluido):
 - A meta do primeiro dia é criar um elemento 2D virar 3D usando camadas na hora que tiver `:hover`, usando `span`.
 
-### 2° dia:
+### 2° dia (Em processo...):
 - A meta do segundo dia é criar um loading animado usando `animation`.
 
 
