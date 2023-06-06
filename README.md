@@ -7,10 +7,10 @@
 </div>
 
 ### 1° dia:
-- A meta do primeiro dia é criar um elemento 2D virar 3D usando camadas na hora que tiver `:hover`
+- A meta do primeiro dia é criar um elemento 2D virar 3D usando camadas na hora que tiver `:hover`, usando `span`.
 
 ### 2° dia:
--
+- A meta do segundo dia é criar um loading animado usando `animation`.
 
 
 ## Referência:
