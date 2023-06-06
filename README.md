@@ -9,6 +9,9 @@
 ### 1° dia:
 - A meta do primeiro dia é criar um elemento 2D virar 3D usando camadas na hora que tiver `:hover`
 
+### 2° dia:
+-
+
 
 ## Referência:
 https://github.com/MilenaCarecho/30diasDeCSS
