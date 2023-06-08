@@ -13,8 +13,13 @@
 
 <hr>
 
-### 2° dia (Em processo...):
+### 2° dia (Concluido):
 - A meta do segundo dia é criar um loading animado usando `animation`.
+
+<hr>
+
+### 3° dia (Em processo...):
+- A meta do terceiro dia é criar um texto que troca de cor ao passar por uma parte da tela usando `overflow`.
 
 <hr>
 
